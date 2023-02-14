@@ -1,0 +1,7 @@
+{
+  "name": "apphello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
